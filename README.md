@@ -58,18 +58,16 @@ If users need to run the provided codes in the src foldes, they should ensure th
 
 
 ### Pacakge dependencies
-
-```python NumPy ```: Used for numerical computing.
-```python Xarray ```: Used for handling labeled multidimensional arrays.  
-```python Cartopy ```: Used for plotting geographical data and maps.  
-```python Matplotlib ```: Used for creating plots and visualizations.  
-```python Pandas ```: Used for data manipulation and analysis.  
-```python Warnings ```: Used for managing warnings.  
-```python System ```: Used for system-specific parameters and functions.  
-```python pyproj```: Handles coordinate system transformations.  
-```python shapely```: Provides geometric objects and operations.  
-```python Geopandas```: provides functionalities to read, write, manipulate, and analyze geospatial data.  
-```python statsmodels```: Required for statistical modeling and analysis.  
+---python Jupyter 1.0.0 ```: Jupyter Notebook environment.  
+```python NumPy 1.22.4```: Used for numerical computing.
+```python Xarray 2022.6.0```: Used for handling labeled multidimensional arrays.  
+```python Cartopy 0.20.3```: Used for plotting geographical data and maps.  
+```python Matplotlib 3.5.2```: Used for creating plots and visualizations.  
+```python Pandas 1.4.3```: Used for data manipulation and analysis.  
+```python pyproj 3.3.1```: Handles coordinate system transformations.  
+```python shapely 1.8.2```: Provides geometric objects and operations.  
+```python Geopandas 0.11.1```: provides functionalities to read, write, manipulate, and analyze geospatial data.  
+```python statsmodels 0.13.2 ```: Required for statistical modeling and analysis.  
 
 ### Package Installation 
 
