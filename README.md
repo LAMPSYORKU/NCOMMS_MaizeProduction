@@ -58,16 +58,16 @@ NumPy (numpy): Used for numerical computing.
 
 ### Pacakge dependencies
 
-```python Xarray ```: Used for handling labeled multidimensional arrays.
-```python Cartopy ```: Used for plotting geographical data and maps.
-```python Matplotlib ```: Used for creating plots and visualizations.
-```python Pandas ```: Used for data manipulation and analysis.
-```python Warnings ```: Used for managing warnings.
-```python System ```: Used for system-specific parameters and functions.
-```python pyproj```: Handles coordinate system transformations.
-```python shapely```: Provides geometric objects and operations.
-```python Geopandas```: provides functionalities to read, write, manipulate, and analyze geospatial data.
-```python statsmodels```: Required for statistical modeling and analysis.
+```python Xarray ```: Used for handling labeled multidimensional arrays.  
+```python Cartopy ```: Used for plotting geographical data and maps.  
+```python Matplotlib ```: Used for creating plots and visualizations.  
+```python Pandas ```: Used for data manipulation and analysis.  
+```python Warnings ```: Used for managing warnings.  
+```python System ```: Used for system-specific parameters and functions.  
+```python pyproj```: Handles coordinate system transformations.  
+```python shapely```: Provides geometric objects and operations.  
+```python Geopandas```: provides functionalities to read, write, manipulate, and analyze geospatial data.  
+```python statsmodels```: Required for statistical modeling and analysis.  
 
 ### Package Installation 
 
