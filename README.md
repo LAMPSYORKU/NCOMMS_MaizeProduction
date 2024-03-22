@@ -58,7 +58,7 @@ NumPy (numpy): Used for numerical computing.
 
 ### Pacakge dependencies
 
-Xarray (xr): Used for handling labeled multidimensional arrays.
+```python Xarray (xr)```: Used for handling labeled multidimensional arrays.
 Cartopy (cartopy): Used for plotting geographical data and maps.
 Matplotlib (matplotlib): Used for creating plots and visualizations.
 Pandas (pandas): Used for data manipulation and analysis.
