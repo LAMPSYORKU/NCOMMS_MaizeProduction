@@ -76,7 +76,7 @@ If users need to run the provided codes in the src foldes, they should ensure th
 #### Using pip
 
 ```python
-   pip install jupyter numpy xarray cartopy matplotlib pandas pyproj shapely statsmodels
+pip install jupyter numpy xarray cartopy matplotlib pandas pyproj shapely statsmodels
 ```
 
 #### Using conda
