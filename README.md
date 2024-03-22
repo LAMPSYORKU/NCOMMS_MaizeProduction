@@ -55,10 +55,11 @@ Currently, there are no files available. Additional files can be added if necess
 ## Packages 
 
 If users need to run the provided codes in the src foldes, they should ensure they have the Jupyter Notebook installed along with the necessary packages: 
-NumPy (numpy): Used for numerical computing.
+
 
 ### Pacakge dependencies
 
+```python NumPy ```: Used for numerical computing.
 ```python Xarray ```: Used for handling labeled multidimensional arrays.  
 ```python Cartopy ```: Used for plotting geographical data and maps.  
 ```python Matplotlib ```: Used for creating plots and visualizations.  
@@ -75,12 +76,12 @@ NumPy (numpy): Used for numerical computing.
 #### Using pip
 
 ```python
-   pip install jupyter xarray cartopy matplotlib pandas pyproj shapely statsmodels
+   pip install jupyter numpy xarray cartopy matplotlib pandas pyproj shapely statsmodels
 ```
 
 #### Using conda
 
 ```python
-conda install jupyter xarray cartopy matplotlib pandas pyproj shapely statsmodels
+conda install jupyter numpy xarray cartopy matplotlib pandas pyproj shapely statsmodels
 ```
 
