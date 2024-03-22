@@ -48,3 +48,32 @@ All scripts tasked with generating figures begin with the prefix "figure_".
 
 ### Scripts for calculate intermediate data
 Scripts responsible for computing intermediate data do not start with the prefix "figure_".
+
+## docs
+
+## Packages 
+
+If users need to run the provided codes in the src foldes, they should ensure they have the Jupyter Notebook installed along with the necessary packages: 
+NumPy (numpy): Used for numerical computing.
+
+### Pacakge dependencies
+
+Xarray (xr): Used for handling labeled multidimensional arrays.
+Cartopy (cartopy): Used for plotting geographical data and maps.
+Matplotlib (matplotlib): Used for creating plots and visualizations.
+Pandas (pandas): Used for data manipulation and analysis.
+Warnings (warnings): Used for managing warnings.
+System (sys): Used for system-specific parameters and functions.
+pyproj: Handles coordinate system transformations.
+shapely: Provides geometric objects and operations.
+Purpose: Geopandas provides functionalities to read, write, manipulate, and analyze geospatial data.
+statsmodels: Required for statistical modeling and analysis.
+
+### Package Installation 
+
+#### Using pip
+
+pip install jupyter xarray cartopy matplotlib pandas pyproj shapely statsmodels
+
+#### Using conda
+conda install jupyter xarray cartopy matplotlib pandas pyproj shapely statsmodels
