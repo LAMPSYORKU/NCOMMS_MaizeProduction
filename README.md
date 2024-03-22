@@ -73,9 +73,9 @@ statsmodels: Required for statistical modeling and analysis.
 
 #### Using pip
 
-'''python
+```python
    pip install jupyter xarray cartopy matplotlib pandas pyproj shapely statsmodels
-'''
+```
 
 #### Using conda
 
