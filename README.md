@@ -50,6 +50,7 @@ All scripts tasked with generating figures begin with the prefix "figure_".
 Scripts responsible for computing intermediate data do not start with the prefix "figure_".
 
 ## docs
+Currently, there are no files available. Additional files can be added if necessary.
 
 ## Packages 
 
