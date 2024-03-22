@@ -74,7 +74,7 @@ statsmodels: Required for statistical modeling and analysis.
 #### Using pip
 
 .. code-block:: python
-pip install jupyter xarray cartopy matplotlib pandas pyproj shapely statsmodels
+   :pip install jupyter xarray cartopy matplotlib pandas pyproj shapely statsmodels:
 code ...
 
 #### Using conda
