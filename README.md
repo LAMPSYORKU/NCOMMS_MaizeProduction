@@ -42,7 +42,7 @@ There are two tables available: one indicating absolute production change, and t
 
 ## src
 
-This folder contains all Jupyter Notebook Python codes. Below is a brief overview of the code contents, with detailed descriptions provided within the codes themselves.
+This folder contains all Jupyter Notebook Python codes. Below is a brief overview of the code contents, with detailed descriptions provided within the codes themselves. All codes are designed to be executable from start to finish within one minute.
 ### Scripts responsible for generating figures 1 through 10.
 All scripts tasked with generating figures begin with the prefix "figure_".
 
