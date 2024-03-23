@@ -59,7 +59,7 @@ If users need to run the provided codes in the src foldes, they should ensure th
 
 ### Pacakge dependencies
 ```python Jupyter 1.0.0 ```: Jupyter Notebook environment.  
-```python NumPy 1.22.4```: Used for numerical computing.
+```python NumPy 1.22.4```: Used for numerical computing.  
 ```python Xarray 2022.6.0```: Used for handling labeled multidimensional arrays.  
 ```python Cartopy 0.20.3```: Used for plotting geographical data and maps.  
 ```python Matplotlib 3.5.2```: Used for creating plots and visualizations.  
