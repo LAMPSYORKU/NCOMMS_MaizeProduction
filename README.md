@@ -54,7 +54,7 @@ Currently, there are no files available. Additional files can be added if necess
 
 ## Packages 
 
-If users need to run the provided codes in the src foldes, they should ensure they have the Jupyter Notebook installed along with the necessary packages: 
+If users need to run the provided codes in the src folder, they should ensure they have the Jupyter Notebook installed along with the necessary packages: 
 
 
 ### Pacakge dependencies
